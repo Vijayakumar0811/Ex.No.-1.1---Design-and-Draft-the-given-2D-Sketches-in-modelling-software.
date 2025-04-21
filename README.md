@@ -1,4 +1,9 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
+DATE : 13-05-2025
+
+NAME: VIJAYAKUMAR S
+
+REG NO: 212224040359
 
 ## AIM
 
@@ -42,6 +47,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/bfb3989a-bdd8-4a80-b89c-3e464ae11810)
 
 
 ## RESULT
